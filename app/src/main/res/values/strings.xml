@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">udacity-android-basics-UserProfile</string>
+    <string name="profile_picture">Picture</string>
+    <string name="text_name">Sara</string>
+    <string name="text_birthday">February 20</string>
+    <string name="text_country">United States</string>
+</resources>
