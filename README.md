@@ -1,4 +1,4 @@
-<h1>JustJava</h1>
+<h1>UserProfile</h1>
 This project is part of the Udacity Android Basics Nanodegree Program.
 
 <h2>Project Overview</h2>
